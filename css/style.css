@@ -1,7 +1,6 @@
 @charset "UTF-8";
-h1 {
-  color: orange;
+body {
+  background-color: blue;
 }
-h4 {
-  color: blue;
+h1 {
 }
