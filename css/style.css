@@ -1,7 +1,14 @@
 @charset "UTF-8";
+body {
+  background-color: orange;
+}
 h1 {
+<<<<<<< HEAD
   color: orange;
 }
 h4 {
   color: blue;
+=======
+  color: #fff;
+>>>>>>> 3c473aef3fc3720cbad6e6104202a3faeb2f5cd6
 }
