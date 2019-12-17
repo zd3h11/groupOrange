@@ -12,7 +12,3 @@
 [yahoo](http://search.yahoo)
 
 
-
-
->>>>>>> 21091a6ef3d3b513ebc63da1039d2f979f36142b
-
