@@ -1,15 +1,18 @@
 # groupOrange
 
 吉田晴香
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 横谷絵理子
-=======
+
 <p>こんにちは</p>
 <p>おはようございます</p>
 [yahoo](http://search.yahoo)
->>>>>>> 927a3646e89759c5807352a741bfe60634942b88
-=======
+<p>こんにちは</p>
+<p>おはようございます</p>
+[yahoo](http://search.yahoo)
+<img src="images/images1.png" alt="">
 
->>>>>>> 1002dacc6956babdeb697f30359c90b850e3a44c
+
+
+>>>>>>> 21091a6ef3d3b513ebc63da1039d2f979f36142b
 
