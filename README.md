@@ -12,7 +12,3 @@
 [yahoo](http://search.yahoo)
 <img src="images/images1.png" alt="">
 
-
-
->>>>>>> 21091a6ef3d3b513ebc63da1039d2f979f36142b
-
